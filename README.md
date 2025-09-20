@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Ajay Chandra Joshi</h1>
 <h3 align="center">A passionate tech undergrad from India</h3>
 
-- 🌱 I’m currently learning **dsa , front end development , android development**
+- 🌱 I’m currently learning **dsa , android development**
 
-- 💬 Ask me about **C , Java , HTML , Kotlin**
 
 - 📫 How to reach me **joshiajay0010@gmail.com**
 
